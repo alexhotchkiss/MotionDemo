@@ -426,8 +426,16 @@ textarea {
 /* =============
     Demo
 ============= */
-.red-box {
-  height: 200px;
-  width: 200px;
-  background-color: #f13232;
+.triangle {
+  width: 0;
+  height: 0;
+  border: solid 100px;
+}
+
+.triangle-red {
+  border-color: transparent transparent red;
+}
+
+.triangle-blue {
+  border-color: transparent transparent blue;
 }

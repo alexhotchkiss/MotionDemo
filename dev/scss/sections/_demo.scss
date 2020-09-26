@@ -1,9 +1,16 @@
 /* =============
     Demo
 ============= */
+.triangle{
+    width: 0;
+    height: 0;
+    border: solid 100px;
+}
 
-.red-box{
-    height: 200px;
-    width: 200px;
-    background-color: $red;
+.triangle-red{
+    border-color: transparent transparent red;
+}
+
+.triangle-blue{
+    border-color: transparent transparent blue;
 }
