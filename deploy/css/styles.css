@@ -439,3 +439,11 @@ textarea {
 .triangle-blue {
   border-color: transparent transparent blue;
 }
+
+.triangle-green {
+  border-color: transparent transparent green;
+}
+
+.triangle-black {
+  border-color: transparent transparent black;
+}
